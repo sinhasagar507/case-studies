@@ -1,0 +1,1 @@
+For accessing datasets to this project please visit the following link: https://www.kaggle.com/competitions/instacart-market-basket-analysis/overview
